@@ -6,6 +6,7 @@ public class ForTest_1 {
 		for(초기식;조건식;증감식){
                 반복해야될 코드		
 		}*/
+		
 		/*
 		for(int i=0;i<3;i++) {
 			System.out.println("Hello, Java!");
@@ -16,6 +17,7 @@ public class ForTest_1 {
 		for(int i=1;i<10;i++) {
 			System.out.println(i);
 		}
+		
 		
 		//1부터 10까지의 합을 구하세요
 		//for문을 이용해서 결과를 출력 55
